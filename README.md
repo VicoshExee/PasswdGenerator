@@ -1,5 +1,5 @@
 # PasswdGenerator
 
 # TODO
-choix nb caractères spéciaux / nombres 
+choix nb caractères spéciaux / nombres\n 
 Interface terminal
